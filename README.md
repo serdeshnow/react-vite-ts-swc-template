@@ -22,7 +22,7 @@
 - создан и сконфигурирован
 
 ### `/package.json`:
-- `"sass": "^1.79.4"` - [css-препроцессор](https://www.npmjs.com/package/sass)
+- `"sass": "^1.81.0"` - [css-препроцессор](https://www.npmjs.com/package/sass)
 - `"prettier": "^3.3.3"`
 - `"vite-plugin-svgr": "^4.2.0"` - [импорт файлов `.svg` как react-компонент](https://www.npmjs.com/package/vite-plugin-svgr)
 > Пример использования пакета `"vite-plugin-svgr"` есть в `./App.tsx `
